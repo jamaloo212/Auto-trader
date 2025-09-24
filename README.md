@@ -1,6 +1,6 @@
 # Auto-trader
 This project is a vehicle dealership system implemented in C++. The system manages vehicles, customers, orders, and inventory, while also automating the creation of sales contracts and receipts for purchases.
-
+ ![Class Diagram](Classdiagram.png)
  # 1. Vehicle
 
 The Vehicle class is the base class representing a general vehicle.
