@@ -66,11 +66,11 @@ Handles reading and writing data to files, ensuring that system data persists be
 2. The main function launches a menu-driven interface within a while-loop.
 3. Based on user choices, the system allows users to:
 
-Purchase vehicles
+   Purchase vehicles
 
-Register as a customer
+   Register as a customer
 
-Manage orders
+   Manage orders
 
-Search for specific vehicles
+    Search for specific vehicles
 4. Upon exiting the program, all changes (new orders, purchased vehicles, etc.) are saved back to the respective files, ensuring persistence across sessions.
